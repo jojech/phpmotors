@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "127.0.0.1",
+            "port": 3306,
+            "driver": "MariaDB",
+            "username": "proxy",
+            "name": "Localhost",
+            "database": "phpMyAdmin",
+            "password": "phpdatauser1"
+        }
+    ]
+}
