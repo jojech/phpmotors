@@ -1,4 +1,4 @@
-# PHP Motors - a dynamic website for a faux car dealership
+# PHP Motors - a dynamic website for a car dealership
 
  - Purpose: built for a backend web development class
  - Framework: MVC (Model - View - Controller)
